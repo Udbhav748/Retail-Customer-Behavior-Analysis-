@@ -15,7 +15,7 @@ This project analyzes retail customer data to uncover purchasing patterns, custo
 
 ---
 
-## 📊 Project Components
+##  Project Components
 
 ### 🔹 Python Analysis
 
@@ -62,7 +62,7 @@ This project analyzes retail customer data to uncover purchasing patterns, custo
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 <img width="1912" height="1066" alt="Screenshot 2026-04-23 170605" src="https://github.com/user-attachments/assets/b83f0033-b77a-44be-802d-cda9cc1c00a0" />
 
 
@@ -70,7 +70,7 @@ This project analyzes retail customer data to uncover purchasing patterns, custo
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1. Python
 
@@ -92,7 +92,7 @@ Run queries from:
 
 ---
 
-## 🎯 Business Impact
+##  Business Impact
 
 This project helps businesses:
 
@@ -103,6 +103,6 @@ This project helps businesses:
 
 ---
 
-## 👤 Author
+##  Author
 
-Udbhav N
+Udbhav Narawat
