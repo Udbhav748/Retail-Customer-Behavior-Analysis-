@@ -63,7 +63,8 @@ This project analyzes retail customer data to uncover purchasing patterns, custo
 ---
 
 ## 📷 Dashboard Preview
-<img width="1268" height="705" alt="Screenshot 2026-04-23 170033" src="https://github.com/user-attachments/assets/17e51dc1-967e-4138-8d76-fa61e62c01e8" />
+<img width="1912" height="1066" alt="Screenshot 2026-04-23 170605" src="https://github.com/user-attachments/assets/b83f0033-b77a-44be-802d-cda9cc1c00a0" />
+
 
 
 
