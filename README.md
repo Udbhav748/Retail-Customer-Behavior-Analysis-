@@ -6,7 +6,7 @@ This project analyzes retail customer data to uncover purchasing patterns, custo
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * Python (Pandas, NumPy, Matplotlib)
 * SQL (Joins, Aggregations, Filtering)
@@ -17,13 +17,13 @@ This project analyzes retail customer data to uncover purchasing patterns, custo
 
 ##  Project Components
 
-### 🔹 Python Analysis
+###  Python Analysis
 
 * File: `Customer_Shopping_Behavior_Analysis.ipynb`
 * Performed data cleaning, transformation, and exploratory data analysis (EDA)
 * Identified customer purchase patterns and trends
 
-### 🔹 SQL Analysis
+###  SQL Analysis
 
 * File: `customer_behavior_sql_queries.sql`
 * Used SQL queries to extract insights such as:
@@ -32,7 +32,7 @@ This project analyzes retail customer data to uncover purchasing patterns, custo
   * Sales trends
   * Product performance
 
-### 🔹 Power BI Dashboard
+###  Power BI Dashboard
 
 * File: `customer_behavior_dashboard.pbix`
 * Built an interactive dashboard to visualize:
@@ -41,19 +41,19 @@ This project analyzes retail customer data to uncover purchasing patterns, custo
   * Customer segments
   * Product insights
 
-### 🔹 Dataset
+###  Dataset
 
 * File: `customer_shopping_behavior.csv`
 * Contains customer purchase and transaction data
 
-### 🔹 Documentation
+###  Documentation
 
 * Business Problem: `Business Problem Document.pdf`
 * Analysis Report: `Customer Shopping Behavior Analysis.pdf`
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * Identified high-value customer segments based on purchase behavior
 * Discovered top-performing product categories
