@@ -1,73 +1,93 @@
+# Retail Customer Behavior Analysis
 
-# Retail Customer Behavior Analysis & Insights
+## Overview
 
-## 📌 Overview
-
-This project analyzes retail customer data to uncover purchasing patterns, customer segments, and key business insights. The goal is to support data-driven decision-making using SQL, Python, and Power BI.
+This project analyzes retail customer data to uncover purchasing patterns, customer segments, and key business insights. The analysis is performed using SQL, Python, and Power BI to support data-driven decision-making.
 
 ---
 
 ## 🛠 Tools & Technologies
 
-* Python (Pandas, NumPy)
-* SQL (Joins, Aggregations)
-* Power BI (Dashboard & Visualization)
-* Excel (Data Cleaning)
+* Python (Pandas, NumPy, Matplotlib)
+* SQL (Joins, Aggregations, Filtering)
+* Power BI (Interactive Dashboard)
+* Excel / CSV Dataset
 
 ---
 
-## 📊 Key Objectives
+## 📊 Project Components
 
-* Analyze customer purchase behavior
-* Identify high-value customer segments
-* Track sales trends and product performance
-* Build an interactive dashboard for business insights
+### 🔹 Python Analysis
+
+* File: `Customer_Shopping_Behavior_Analysis.ipynb`
+* Performed data cleaning, transformation, and exploratory data analysis (EDA)
+* Identified customer purchase patterns and trends
+
+### 🔹 SQL Analysis
+
+* File: `customer_behavior_sql_queries.sql`
+* Used SQL queries to extract insights such as:
+
+  * Customer segmentation
+  * Sales trends
+  * Product performance
+
+### 🔹 Power BI Dashboard
+
+* File: `customer_behavior_dashboard.pbix`
+* Built an interactive dashboard to visualize:
+
+  * Revenue trends
+  * Customer segments
+  * Product insights
+
+### 🔹 Dataset
+
+* File: `customer_shopping_behavior.csv`
+* Contains customer purchase and transaction data
+
+### 🔹 Documentation
+
+* Business Problem: `Business Problem Document.pdf`
+* Analysis Report: `Customer Shopping Behavior Analysis.pdf`
 
 ---
 
 ## 🔍 Key Insights
 
-* Identified top-performing product categories
-* Discovered seasonal sales trends
-* Segmented customers based on purchase frequency
-* Highlighted revenue-driving customer groups
+* Identified high-value customer segments based on purchase behavior
+* Discovered top-performing product categories
+* Analyzed seasonal and trend-based sales patterns
+* Highlighted key drivers of customer purchasing decisions
 
 ---
 
 ## 📷 Dashboard Preview
+(<img width="1268" height="705" alt="Screenshot 2026-04-23 170033" src="https://github.com/user-attachments/assets/17e51dc1-967e-4138-8d76-fa61e62c01e8" />)
 
-![Dashboard](images/dashboard.png)
+
 
 ---
 
 ## 🚀 How to Run the Project
 
-### 1. SQL Analysis
+### 1. Python
 
-* Open `queries.sql`
-* Run queries in MySQL/PostgreSQL
-
-### 2. Python Analysis
-
-* Navigate to `python/`
-* Run:
+Open the notebook:
 
 ```bash
-python analysis.py
+jupyter notebook Customer_Shopping_Behavior_Analysis.ipynb
 ```
 
-### 3. Power BI Dashboard
+### 2. SQL
 
-* Open `dashboard.pbix` in Power BI Desktop
+Run queries from:
 
+* `customer_behavior_sql_queries.sql`
 
-## 📁 Project Structure
+### 3. Power BI
 
-* `data/` → Dataset used for analysis
-* `sql/` → SQL queries
-* `python/` → Data analysis scripts
-* `powerbi/` → Dashboard file
-* `images/` → Dashboard screenshots
+* Open `customer_behavior_dashboard.pbix` in Power BI Desktop
 
 ---
 
@@ -78,7 +98,7 @@ This project helps businesses:
 * Understand customer behavior
 * Improve marketing strategies
 * Increase customer retention
-* Optimize product offerings
+* Make data-driven decisions
 
 ---
 
